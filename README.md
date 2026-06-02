@@ -21,7 +21,7 @@ No API keys needed — everything runs locally!
 ## Exercises Overview
 
 ### Exercise 1: Model Comparison
-**File:** `exercise_1_model_comparison.py`
+**File:** `1_model_comparison.py`
 
 Compare Qwen responses with different temperature settings (0.8 creative vs 0.1 precise).
 
@@ -32,13 +32,13 @@ Compare Qwen responses with different temperature settings (0.8 creative vs 0.1 
 
 **Run:**
 ```bash
-python exercise_1_model_comparison.py
+python 1_model_comparison.py
 ```
 
 ---
 
 ### Exercise 2: JSON Output Parser
-**File:** `exercise_2_json_output_parser.py`
+**File:** `2_json_output_parser.py`
 
 Parse structured JSON responses from the LLM for movie information.
 
@@ -49,13 +49,13 @@ Parse structured JSON responses from the LLM for movie information.
 
 **Run:**
 ```bash
-python exercise_2_json_output_parser.py
+python 2_json_output_parser.py
 ```
 
 ---
 
 ### Exercise 3: Document Loaders and Text Splitters
-**File:** `exercise_3_document_loaders.py`
+**File:** `3_document_loaders.py`
 
 Load web documents and split them using different strategies.
 
@@ -68,13 +68,13 @@ Load web documents and split them using different strategies.
 
 **Run:**
 ```bash
-python exercise_3_document_loaders.py
+python 3_document_loaders.py
 ```
 
 ---
 
 ### Exercise 4: Building a Retrieval System
-**File:** `exercise_4_retrieval_system.py`
+**File:** `4_retrieval_system.py`
 
 Create a simple RAG (Retrieval-Augmented Generation) system.
 
@@ -86,13 +86,13 @@ Create a simple RAG (Retrieval-Augmented Generation) system.
 
 **Run:**
 ```bash
-python exercise_4_retrieval_system.py
+python 4_retrieval_system.py
 ```
 
 ---
 
 ### Exercise 5: Chatbot with Memory
-**File:** `exercise_5_chatbot_memory.py`
+**File:** `5_chatbot_memory.py`
 
 Build a conversational chatbot that maintains conversation history.
 
@@ -105,13 +105,13 @@ Build a conversational chatbot that maintains conversation history.
 
 **Run:**
 ```bash
-python exercise_5_chatbot_memory.py
+python 5_chatbot_memory.py
 ```
 
 ---
 
 ### Exercise 6: Multi-Step Chains
-**File:** `exercise_6_chains.py`
+**File:** `6_chains.py`
 
 Explore different chain approaches for complex workflows.
 
@@ -123,13 +123,13 @@ Explore different chain approaches for complex workflows.
 
 **Run:**
 ```bash
-python exercise_6_chains.py
+python 6_chains.py
 ```
 
 ---
 
 ### Exercise 7: Agents with Tools
-**File:** `exercise_7_agents.py`
+**File:** `7_agents.py`
 
 Create an agent that uses tools to complete tasks.
 
@@ -142,7 +142,7 @@ Create an agent that uses tools to complete tasks.
 
 **Run:**
 ```bash
-python exercise_7_agents.py
+python 7_agents.py
 ```
 
 ---
