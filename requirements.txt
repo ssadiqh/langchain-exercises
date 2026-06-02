@@ -1,4 +1,4 @@
 langchain-ollama==0.3.10
 langchain-core==0.3.86
-pypdf==4.2.0
-chromadb==0.4.24
+langchain-community==0.0.13
+requests>=2.30.0
